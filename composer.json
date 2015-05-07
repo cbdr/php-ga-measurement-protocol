@@ -1,5 +1,5 @@
 {
-    "name": "krizon/php-ga-measurement-protocol",
+    "name": "cbdr/php-ga-measurement-protocol",
     "description": "Easy use of the Google Analytics Measurement Protocol in PHP",
     "minimum-stability": "dev",
     "require": {
